@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Software Engineering with C# and Database Design
 
 **Proyecto de ingeniería de software** para desarrollar una solución integral en C# con diseño de base de datos, siguiendo principios de **arquitectura limpia** y **buenas prácticas** de desarrollo.
@@ -150,3 +151,6 @@ Proyecto educativo para el curso de ingeniería de software.
 - ✅ Configuración de compilación
 - ⏳ Desarrollo de funcionalidades
 - ⏳ Implementación de base de datos
+=======
+
+>>>>>>> 5865598b74edf697919c135d43b1146df597f0c3
